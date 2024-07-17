@@ -1,0 +1,14 @@
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.csproj.AssemblyReference.cache
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.AssemblyInfoInputs.cache
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.AssemblyInfo.cs
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.exe
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.deps.json
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.runtimeconfig.json
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.runtimeconfig.dev.json
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.dll
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\bin\Debug\netcoreapp3.1\tp5.pdb
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.dll
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.pdb
+C:\Users\herna\Desktop\metologias carpeta reecho\tp5\tp5\tp5\obj\Debug\netcoreapp3.1\tp5.genruntimeconfig.cache
